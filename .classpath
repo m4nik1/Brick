@@ -2,5 +2,12 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/CTRLib.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/WPILib.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/opencv.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/NetworkTables.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/navx_frc.jar"/>
+	<classpathentry kind="lib" path="/Users/manik/Downloads/Brick-2.0-Working-on-Code/build/jars/cscore.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
